@@ -20,7 +20,7 @@ Bu örnekler, dizilerin oluşturulması, eleman ekleme/güncelleme, arama, sıra
 1. Terminal veya komut satırını açın.  
 2. Kodun bulunduğu klasöre gidin.  
 3. Her bir `.java` dosyasını derleyin:
-```bash
+
 javac DosyaAdi.java
 Programı çalıştırın: java DosyaAdi
 
@@ -31,3 +31,4 @@ Java 21 veya daha üstü
 Her dosya kendi başına çalışabilir.
 Kodlar temel kavramları göstermek için hazırlanmıştır.
 Bu örnekleri inceleyerek, diziler üzerinde denemeler yapabilir ve mantığı kavranılır.
+```bash
