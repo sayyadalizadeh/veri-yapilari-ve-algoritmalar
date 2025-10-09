@@ -37,24 +37,15 @@ Root/
 ## Genel Kurallar
 
 1. **Klasör İsimlendirmesi:**  
-   - Her konu, bağımsız bir klasör içinde ve anlaşılır İngilizce isimle olmalıdır.  
+   - Her konu, bağımsız bir klasör içinde ve anlaşılır isimle yazılmıştır.  
    - Örnek: `Arrays_Java`, `Lists`, `Stacks`, `Queues`.
 
 2. **Dosya İsimlendirmesi:**  
-   - Dosya isimleri, içerdiği sınıf veya programla uyumlu olmalıdır.  
+   - Dosya isimleri, içerdiği sınıf veya programla uyumludur.  
    - Örnek: `SinglyLinkedList.java`, `ArrayExample.java`.
 
-3. **Dosyaları Git’e Eklemek:**  
-   - Önce dosyaları veya klasörleri ilgili konuma yerleştirin.  
-   - Daha sonra depo kökünde:
-     ```bash
-     git add <folder_name>
-     git commit -m "<folder_name> klasörü eklendi"
-     git push origin main
-     ```
-
-4. **`.gitignore` Kullanımı:**  
-   - Geçici dosyalar, derlenmiş sınıflar (`*.class`) ve IDE ayarları depoya eklenmemelidir.  
+3. **`.gitignore` Kullanımı:**  
+   - Geçici dosyalar, derlenmiş sınıflar (`*.class`) ve IDE ayarları depoya eklenmemiştir.  
    - Örnek `.gitignore` dosyası:
      ```
      *.class
@@ -62,14 +53,8 @@ Root/
      *.log
      ```
 
-5. **Güncellemeler:**  
-   - Her konu tamamlandığında veya yeni örnek eklendiğinde, net bir commit mesajı ile commit atılmalıdır:
-     ```bash
-     git add .
-     git commit -m "Kuyruk örnekleri eklendi"
-     git push origin main
-     ```
-
+4. **Güncellemeler:**  
+   - Her konu tamamlandığında veya yeni örnek eklendiğinde, net bir commit mesajı ile commit atılmaktadır:
 ---
 
 ## Kullanıcılar İçin Öneriler
@@ -78,7 +63,5 @@ Root/
   ```bash
   git status
 
-Yerel depo ile online depoyu senkronize etmek için:
-git pull origin main
 
 
