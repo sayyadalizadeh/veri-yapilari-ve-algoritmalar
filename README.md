@@ -7,7 +7,7 @@ Bu depo, **Veri Yapıları ve Algoritmalar** dersine ait tüm örnek kodları i�
 ## Depo Yapısı
 
 Her ders konusu, ayrı bir klasörde saklanır. Klasör adları, konuyu açık bir şekilde belirtir.
-
+```
 Root/
 │
 ├─ Arrays_Java/ # Dizilerle ilgili örnekler
@@ -28,7 +28,7 @@ Root/
 ├─ Queues/ # Gelecek: Kuyruk yapıları örnekleri
 ├─ Stacks/ # Gelecek: Yığın yapıları örnekleri
 └─ README.md # Bu rehber
-
+```
 
 > Her klasör, o konudaki alıştırmalar ve örnekler tamamlandığında güncellenecektir.
 
