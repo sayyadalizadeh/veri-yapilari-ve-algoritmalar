@@ -62,6 +62,3 @@ Root/
 - Pull veya push işleminden önce her zaman durumu kontrol edin:
   ```bash
   git status
-
-
-
