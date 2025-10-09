@@ -81,10 +81,4 @@ Root/
 Yerel depo ile online depoyu senkronize etmek için:
 git pull origin main
 
-Gelecek Hedefler
-Tüm ders konularını ve bölümlerini konulara göre eklemek.
-Algoritmalar için ayrı klasörler oluşturmak (Sort, Search, Recursion).
-Her örneği adım adım açıklamak ve dökümante etmek.
-Değişiklik geçmişini net ve takip edilebilir şekilde tutmak.
-
 
