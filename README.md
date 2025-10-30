@@ -25,8 +25,9 @@ Root/
 │ ├─ DoublyLinkedListOperations.java
 │ └─ ...
 │
+├─ Stack/ # Yığın yapıları örnekleri
+├─ Infix-Prefix-Postfix/ # Yığın kullanımı: Matematik ifadelerin gösterimi
 ├─ Queues/ # Gelecek: Kuyruk yapıları örnekleri
-├─ Stacks/ # Gelecek: Yığın yapıları örnekleri
 └─ README.md # Bu rehber
 ```
 
