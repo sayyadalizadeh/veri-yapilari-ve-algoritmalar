@@ -13,7 +13,7 @@ Bu repository, Veri Yapıları ve Algoritmalar dersi kapsamında kullanılan haf
 | Hafta | Konu | Materyal |
 |---|---|---|
 | 1 | Veri Yapılarına Giriş ve Algoritma Analizi | [PDF sunumu](hafta-01/Hafta1_Veri_Yapilarina_Giris_ve_Algoritma_Analizi.pdf) |
-| 2 | Diziler | [PDF sunumu](Hafta2_Diziler_ve_Bellek_Temelleri.pdf) |
+| 2 | Diziler | [PDF sunumu](hafta-02/Hafta2_Diziler_ve_Bellek_Temelleri.pdf) |
 | 3 | Bağlı Listeler | Hazırlanıyor |
 | 4 | Yığınlar (Stack) | Hazırlanıyor |
 | 5 | Özyineleme (Recursion) | Hazırlanıyor |
