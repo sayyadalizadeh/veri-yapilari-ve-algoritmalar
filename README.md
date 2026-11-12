@@ -17,8 +17,8 @@ Bu repository, Veri Yapıları ve Algoritmalar dersi kapsamında kullanılan haf
 | 3 | Bağlı Listeler | [PDF sunumu](hafta-03/Hafta3_Bagli_Listeler.pdf) |
 | 4 | Yığınlar (Stack) | [PDF sunumu](hafta-04/Hafta4_Yiginlar_ve_Uygulamalari_Duzeltilmis.pdf) |
 | 5 | Özyineleme (Recursion) | [PDF sunumu](hafta-05/Hafta5_Ozyineleme_Recursion.pdf) |
-| 6 | Kuyruklar (Queue) | Hazırlanıyor |
-| 7 | Ağaçlar I | Hazırlanıyor |
+| 6 | Kuyruklar (Queue) | [PDF sunumu](hafta-06/Hafta6_Kuyruklar_Queues.pdf) |
+| 7 | Ağaçlar I | [PDF sunumu](hafta-07/Hafta7_Agaclar_I_Binary_Trees_ve_BST.pdf) |
 | 8 | Heap ve Öncelik Kuyrukları | Hazırlanıyor |
 | 9 | AVL Ağaçları | Hazırlanıyor |
 | 10 | B-Trees | Hazırlanıyor |
